@@ -1,1 +1,2 @@
-# robloscripts
+# roblox scripts
+funny scripts
